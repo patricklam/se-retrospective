@@ -1,0 +1,39 @@
+# curriculum issues
+
+* physics
+* feedback control (MATH 213 got added to support that since initial proposal)
+* which version of fundamental math courses? how much fundamental math?
+* SE 1/2/3 (we basically refactored the project into its own thing and gave a lot more flexibility)
+* FYDP (could be its own paper, was not part of initial proposal but was added early)
+* ideas clinic
+* SE 101
+* stats
+* humanities/social impact, comms
+
+* meets most BCS requirements
+
+# things we discovered over 20 years (curricular evolution)
+
+* SE 141 electrodeath
+* RIP TPM
+* RIP SE 362 Software Project Management
+* RIP SE 457 System Performance Evolution
+* + SE 350
+* moving SE 1/2/3 to 3A/3B/4A
+* electives/open electives
+* CS 348 in 2B
+
+* CS 137/138 (and programming experience)
+* CS 247/SE 464 vs CS 446
+
+# meta-curricular issues
+
+* aCCreditation
+* collaboration
+* cohort
+  + but no ordering between 3B, 4A, 4B
+* coop
+
+* sharing already-existing courses
+* what electives do SE students take?
+
