@@ -39,7 +39,9 @@ collaboration, coop, and accdreditation.
 * RIP SE 362 Software Project Management
 * RIP SE 457 System Performance Evolution
 * + SE 350
-* moving SE 1/2/3 to 3A/3B/4A
+* moving SE 1/2/3 to 3A/3B/4A: 
+    * inversion of waterfall ordering to agile ordering
+    * switched to testing, design, requirements
 * electives/open electives
 * CS 348 in 2B
 
