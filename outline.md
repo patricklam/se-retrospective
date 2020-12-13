@@ -1,3 +1,6 @@
+Waterloo's Software Engineering Program: a 20-year retrospective
+Twenty Years of Undergraduate Software Engineering at Waterloo
+
 # Introduction
 
 In this paper we want to discuss lessons that we have learned from 20 years of running the successful
