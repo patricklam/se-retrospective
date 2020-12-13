@@ -1,4 +1,5 @@
 Waterloo's Software Engineering Program: a 20-year retrospective
+
 Twenty Years of Undergraduate Software Engineering at Waterloo
 
 # Introduction
