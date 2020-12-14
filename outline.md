@@ -8,6 +8,7 @@ collaboration, coop, and accdreditation.
 # meta-curricular issues
 
 * aCCreditation
+  + ethics and professionalism (see professionalism.md)
 * collaboration
 * cohort
   + but no ordering between 3B, 4A, 4B
