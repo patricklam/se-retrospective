@@ -54,6 +54,30 @@ But it doesn't seem like there is any appetite to mandate licensing for software
 
 https://twitter.com/trevorsumner/status/1106934362531155974?lang=en
 
+Sorry.  The problems with the Boeing 737 MAX were not entirely due to software and they certainly had economic and aerodynamic motivations.  But at the end of the day
+- the aerodynamics problem was ¿fixed¿ with a software feature MCAS
+- the MCAS feature evolved over time and the safety analysis of the system did not evolve with the software
+- testing and certification was not redone
+- the HCI of the MCAS disabled *the* fundamental means that pilots use to respond to a nosedive (i.e., to pull up on the column) 
+
+If ¿software engineering¿ is limited to coding, then sure you can argue that the 737 MAX problems should not be attributed to software.  But I thought that we had a broader notion of software engineering and that it included safety analysis, testing, and HCI design.
+
+Jo
+
+    Preliminary Aircraft Accident Investigation Report KNKT.18.10.35.04, B737-8 (MAX) registered PK-LQP, flight LNI-610, 29 Oct 2018 (report issued 28 Nov 2018)
+    KNKT Presentation to House of Representatives, Republic of Indonesia, 22 Nov 2018
+    Aircraft Accident Investigation Preliminary Report AI-01/19, B737-8 (MAX) registered ET-AVJ, flight ET-302, 10 March 2019 (report issued 7 April 2019)
+    Cockpit Voice Recorder Database, ¿10 March 2019 ¿ ET302¿ (https://www.tailstrike.com/100319.html)
+    Boeing technical documentation, bulletins
+    b737.org.uk - Boeing 737 Technical Site: technical, operational, and training notes; articles and photos contributed by 737 pilots and engineers from around the world.
+    Seattle Times ¿ anything written by Dominic Gates
+    satcom.guru ¿ blog by Peter Lemme, former Boeing avionics supervisor, pilot
+
+
+
+
+
+
 ## AI & SE
 
 DR:
