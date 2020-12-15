@@ -75,6 +75,9 @@ Jo
 
 
 
+We created the SE program to train professional software engineers to create professionally responsible public infrastructure, such as the system in the Boeing 737MAX. Our curriculum specifically prepares students for developing those kinds of systems: HCI, control theory, programming, etc. But the economic reality is that almost none of our students have gone to work in those areas. Facebook and Google pay more --- and these companies did not exist (or barely existed) when our SE program was founded.
+
+Society still has a need for software engineers that receive the education in our curriculum, but the economy is not allocating that talent to the engineering design challenges it was trained for.
 
 
 
