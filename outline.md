@@ -65,17 +65,6 @@ many students[CS] transfer to Computer Science. SE students satisfy
 "CS students only" prerequisite requirements for course enrollment
 purposes.
 
-### Accreditation
-
-We also designed the program to be accreditable by both the Canadian
-Engineering Accreditation Board as well as the Computer Science
-Accreditation Council. We have abandoned CS accreditation, as there is
-no demand for it.  Engineering accreditation is a more fraught
-exercise; Memorial University was involved in a lawsuit in the 1990s
-about its use of the name "software engineering" for a non-accredited
-program and agreed to drop the name. Being an accredited engineering
-program imposes significant curriculum constraints, in particular with
-respect to minimum amounts of natural science content.
 
 
 TODO: include transfer-to-CS stats
@@ -85,7 +74,7 @@ TODO: look up stats on Canadian CS program sizes
 resources/graduate-counts
 
 https://uwaterloo.ca/software-engineering/future-undergraduate-students/comparing-bse-bcs
-[comp eng page]
+https://uwaterloo.ca/software-engineering/future-undergraduate-students/comparing-bse-basc-comp-eng
 
 Penn has a similar situation:
 
@@ -110,7 +99,9 @@ degrees, while ECE has granted 2000 undergraduate degrees.
 
 * curricular evolution
 
+# Licensure and accreditation
 
+#include license.md
 
 - SE degree programs, including UW, were created out of an
   understanding of what SE was up to the 1990s.
