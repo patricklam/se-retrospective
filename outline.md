@@ -97,28 +97,21 @@ February 2021, there are 582 students enrolled across all years.
 In the same time period, CS has granted just under 6000 undergraduate
 degrees, while ECE has granted 2000 undergraduate degrees.
 
-* curricular evolution
 
 # Licensure and accreditation
 
 #include license.md
 
-- SE degree programs, including UW, were created out of an
-  understanding of what SE was up to the 1990s.
-- Has SE changed since then? What has happened?
-    - metaphors of engineering, etc.
-    - industry
-    - education
-    - profession / licensing
-        - often regional
-        - industry is global
-- formal methods
-- AI
+# Curriculum and evolution
+
+#include curriculum.md
+
 - how has the existence of SE degree programs influenced history?
     - thoughts?
     - Software Engineer is certainly a prominent job title ...
-- how has history influenced SE degree programs?
-    - e.g., re-ordering SE1/2/3 from waterfall to agile
+
+# Surprises
+
 - surprises?
     - our graduates go to work at Facebook ... is that the critical
       civil infrastructure that we thought we were training people
@@ -150,53 +143,11 @@ degrees, while ECE has granted 2000 undergraduate degrees.
 * coop
 
 * sibling programs (NE, TRON, GeoE, BME)
-* CS vs SE vs ECE
 
 # student support
 
 * first year midterm analysis
 * https://patricklam.ca/post/20201212-se-student-support/
 
-# thoughts about original design
-
-* sharing already-existing courses
-* 50/50 ECE/CS balance
-
-* natural science
-
-# things we discovered over 20 years (curricular evolution)
-
-* SE 141 electrodeath
-* RIP TPM
-* RIP SE 362 Software Project Management
-* RIP SE 457 System Performance Evolution
-* + SE 350
-* moving SE 1/2/3 to 3A/3B/4A: 
-    * inversion of waterfall ordering to agile ordering
-    * switched to testing, design, requirements
-* electives/open electives
-* CS 348 in 2B
-
-* CS 137/138 (and programming experience)
-* CS 247/SE 464 vs CS 446
-
-* what electives do SE students take?
-  resources/courses-taken-by-se-students.md
 * transfers
-
-* SE123 project vs FYDP
-
-# active curriculum issues
-
-* physics
-* feedback control (MATH 213 got added to support that since initial proposal)
-* which version of fundamental math courses? how much fundamental math?
-* SE 1/2/3 (we basically refactored the project into its own thing and gave a lot more flexibility)
-* FYDP (could be its own paper, was not part of initial proposal but was added early)
-* ideas clinic
-* SE 101
-* stats
-* humanities/social impact, comms
-
-* meets most BCS requirements
 

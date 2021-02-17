@@ -23,7 +23,7 @@ should have job titles including the word "engineer", though
 enforcement in the software domain is patchy.
 
 In practice, we have observed that very few of our graduates pursue
-licensure; Professional Engineers Ontario reported in 2018 that only 7
+licensure; Professional Engineers Ontario reported in May 2017 that only 7
 Waterloo BSE graduates had been licensed. Our exit survey of 2018
 graduates reported that 16\% of respondents intended to pursue
 licensure. This is difficult in practice; the same survey showed that
@@ -72,3 +72,5 @@ where it affects human life and safety, and it is hard to argue that
 there are no engineering aspects to the design and implementation of
 these social media systems. Traditional engineering education may not
 provide the background needed to maturely discuss these issues.
+
+# also see professionalism.md
