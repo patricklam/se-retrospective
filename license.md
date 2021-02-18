@@ -1,9 +1,11 @@
 # Professional Engineering Licensure
 
-We designed Waterloo's Software Engineering program to be accreditable
-by both the Canadian Engineering Accreditation Board as well as the
-Computer Science Accreditation Council. We have abandoned CS
-accreditation, as it requires significant effort and there is no
+In this section we discuss the narrow issue of licensure in the
+Canadian context. Later on we will discuss software engineering as a
+profession. We designed Waterloo's Software Engineering program to be
+accreditable by both the Canadian Engineering Accreditation Board as
+well as the Computer Science Accreditation Council. We have abandoned
+CS accreditation, as it requires significant effort and there is no
 demand for it.
 
 Engineering accreditation is a more fraught exercise; Memorial
@@ -30,6 +32,12 @@ licensure. This is difficult in practice; the same survey showed that
 only 33\% of our graduates intended to work in Canada, and many will
 not be supervised by PEngs.
 
+We broaden our focus slightly to our neighbour, the United States.  In
+that country, close to zero software engineers sought licensure as
+such; the software PE exam was taken by 81 candidates between 2013 and
+2018, when it was discontinued. The American context is different,
+most importantly in that "engineer" is not a protected title.
+
 On the other hand, Canadian engineering graduates are eligible to
 receive an iron ring, presented to them at the \emph{Ritual of the
 Calling of an Engineer}. In our experience, almost all of our
@@ -50,27 +58,25 @@ for information technology to be excluded. The final version of the
 law, passed in November 2020, indeed contained a specific exclusion for
 computer science (specifically \emph{informatique} in the French).
 
-In the United States, close to zero software engineers sought
-licensure as such; the software PE exam was taken by 81 candidates
-between 2013 and 2018, when it was discontinued. The American context
-is different, most importantly in that "engineer" is not a protected
-title.
-
 Should software engineering be licensed? From a more personal context,
 none of the authors of this work (all with academic teaching and
 research roles) practices engineering based on the Ontario definition
-of practice, and none of us has stamped a plan. Note however that, in
-some other Canadian jurisdictions (e.g. British Columbia), the
-teaching of engineering counts as the practice of engineering.
+of practice\footnote{Technically, in some
+other Canadian jurisdictions (e.g. British Columbia), the teaching of
+engineering counts as the practice of engineering.}, and none of us
+has stamped a plan. 
 
-An extremely important recent development is the effect that software
-systems may play in our democracies. In particular, social media
-undoubtedly affected the elections in the United States in 2016 and
-2020, and in many other places in the world. Engineering is very much
-about the responsible development and use of technology in contexts
-where it affects human life and safety, and it is hard to argue that
-there are no engineering aspects to the design and implementation of
-these social media systems. Traditional engineering education may not
-provide the background needed to maturely discuss these issues.
+Licensing of software engineers was a huge topic of debate in the late
+1990s. Professional engineering organizations (particularly Texas)
+were clamouring for software developers to be licensed. The software
+engineering community was waiting for some catastrophic software error
+to push the governments to require at least the licensing of software
+engineers who develop safety critical systems.
 
-# also see professionalism.md
+Yet, when software errors cause planes to fall out of the sky, there
+isn't a peep.
+
+It seems safe to conclude that, on a global scale, licensing of
+software engineers is dead.
+
+

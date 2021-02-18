@@ -101,6 +101,7 @@ degrees, while ECE has granted 2000 undergraduate degrees.
 # Licensure and accreditation
 
 #include license.md
+#include society.md
 
 # Curriculum and evolution
 

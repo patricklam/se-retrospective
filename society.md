@@ -1,26 +1,60 @@
+# Software Engineering and society
 
-[DR]
+Waterloo's Software Engineering program is a success in Canada. In
+this section, we discuss "software engineering" in a broader sense, as
+a discipline and as a profession.
 
-This is a success in Canada, but I don't think we should contextualize it as a Canadian story. I think we should contextualize it as a story about software engineering as a discipline and profession.
+From the 1960s through 2000 there was a lot of talk about the metaphor
+of "engineering" with regards to software. In 2000, ACM Council took a
+position opposing licensure of software engineers.  On the other hand,
+our exit surveys indicate that almost all of our graduates start their
+careers, unlicensed, in the United States, with the job title
+"software engineer". Nobody in the United States seems to care, and
+enforcement in Canada seems to be scarce.
 
-From the 1960s through 2000 there was a lot of talk about the metaphor of "engineering" with regards to software. Other metaphors as well: the surgical team metaphor, the growing/agriculture metaphor, carpentry/craftsmanship metaphor, bricolage, etc. So what happened with all that?
+An extremely important recent development is the effect that software
+systems may play in our societies and particularly our democracies.
+There is a spectrum from critical traditional infrastructure which
+depends on software, such as water treatment systems and aircraft
+(e.g. the Boeing 737 MAX), through voting machines, all the way
+through to social media.
 
-- "software engineer" is now a dominant job title
-- but they aren't licensed --- and nobody seems to care, although safety and security of critical public infrastructure is a growing concern ...
-- is Facebook public infrastructure? because that's where our students go to work ... we didn't imagine exactly that kind of public infrastructure last century ...
-- Boeing 737MAX, election machines, etc.
+Social media undoubtedly affected the elections in the United States
+in 2016 and 2020, and in many other places in the world. Perhaps a
+majority of our graduates today work at Facebook, an outcome that we
+very much did not imagine in 1999. Engineering is very much about the
+responsible development and use of technology in contexts where it
+affects human life and safety, and there are most certainly
+engineering aspects to the design and implementation of these social
+media systems. Traditional engineering education may not provide the
+background needed to maturely discuss these issues.
+
+---
+
+- Has SE changed since then? What has happened?
+    - metaphors of engineering, etc.
+    - industry
+    - education
+
+
+Other metaphors as well:
+the surgical team metaphor, the growing/agriculture metaphor,
+carpentry/craftsmanship metaphor, bricolage, etc. So what happened
+with all that?
+
+https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/
+
 
 Are we teaching our students to engineer software in the way that Parnas and Brooks and Shaw and Jackson imagined last century? Is that what industry is hiring them to do? We could poll our students on these kinds of issues, and also look at the graduating class profiles. The SE2020 graduation profile had some data on what kind of work they are doing and what kind of work they would prefer to be doing.
 
-I think the international venues would be better places to have this broader discussion about software engineering as a discipline and profession and industry, as seen through the lens of our educational program.
 
-[JA]
-
-I would add the evolution in thinking about licensing of software engineers, which was a huge topic of debate in the late 1990s. Professional engineering organizations were clamouring for software developers to be licensed. We were waiting for some catastrophic software error to push the governments to require at least the licensing of software engineers who develop safety critical systems. 
-
-Yet, when software errors cause planes to fall out of the sky, there isn’t a peep.
-
-Licensing of software engineers is dead.
+Another development is the increasing globalization of software
+engineering practice. In Canada, licensure is the responsibility of
+provincial associations. However, exit surveys show that a substantial
+majority of our graduates (60-85%) start their careers in the United States
+working on software that is deployed worldwide. At the same time,
+in some domains, outsourcing has resulted in much software being deployed
+in a different jurisdiction from where it was developed.
 
 
 [DR]
