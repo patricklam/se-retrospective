@@ -133,6 +133,10 @@ degrees, while ECE has granted 2000 undergraduate degrees.
         - SE is subset of ECE
         - SE is not a degree program?
 
+We have oodles more SE content than, well, CS programs, which usually
+have one course, if that. PL has taken 0 SE courses in his life, and he didn't
+graduate that early---1999.
+
 
 # meta-curricular issues
 
