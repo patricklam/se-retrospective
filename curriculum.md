@@ -120,6 +120,8 @@ agile methodologies.
 
 % somewhere we should talk about requirements, and also about architecture. That somewhere is probably a "discussion" part of this section.
 
+% Spencer Dobrik: "Also I would like to be the one SE student feedback that says architecture and reqs are super important for early stage companies. But you never realize the value of you join a 500+ person company and they've already figured everything out"
+
 We moved databases from third year to second year. Many students had already
 seen a substantial amount of database content through co-op jobs and were
 finding that our databases course was too late in the curriculum.
@@ -153,7 +155,7 @@ not told what to do.
 % Handbook.
 % Grading scheme; don't want CRUD apps.
 % Symposium [random note: people wear suits way less often now]
-% Cyberbullying project?
+% Cyberbullying project: There was a group that was working on a project that invited others to judge people. That couldn't possibly lead to cyberbullying. Derek was telling them that and their classmates told them that. They were like "look no one tells you honest feedback about yourself" (true), "let's fix that! With anonymous comments!"
 
 ## Changes to Other Parts
 
@@ -216,7 +218,7 @@ specifications.
 % We should write this following para better and incorporate feedback from videogame labs.
 Feedback control has been in the curriculum since the beginning and,
 like E\&M, its role in the curriculum often discussed. Our rationale is
-that if anyone is qualified to work on cyberphysical systems, it should be
+bthat if anyone is qualified to work on cyberphysical systems, it should be
 our graduates. In practice, however, many of our graduates never design a
 controller. Alumni have reported that understanding feedback control has
 been useful in understanding software phenomena that would otherwise have been
