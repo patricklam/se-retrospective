@@ -1,6 +1,6 @@
-Waterloo's Software Engineering Program: a 20-year retrospective
+% Waterloo's Software Engineering Program: a 20-year retrospective or, Twenty Years of Undergraduate Software Engineering at Waterloo
+% Joanne Atlee, Charles Clarke, Patrick Lam, Andrew Morton, Derek Rayside, William Wilson
 
-or, Twenty Years of Undergraduate Software Engineering at Waterloo
 
 # Introduction
 
@@ -8,6 +8,9 @@ In this paper we want to discuss lessons that we have learned from 20 years of r
 Software Engineering undergraduate program at the University of Waterloo. Obviously curriculum evolution
 is important. But we will first talk about meta-curricular issues: student support, governance,
 collaboration, coop, and accreditation.
+
+include(is-engineering.md)
+
 
 # History and Lessons
 
@@ -23,6 +26,7 @@ and the Department of Electrical and Computer Engineering included the same numb
 For context, each unit had about 40 faculty members.
 
 ## Beyond the SE Option
+
 Undergraduate education in Software Engineering at Waterloo first
 coalesced around an SE Option (comparable to a minor), first offered
 in 1994. This program was mostly aimed at CS and Computer Engineering
@@ -98,20 +102,24 @@ In the same time period, CS has granted just under 6000 undergraduate
 degrees, while ECE has granted 2000 undergraduate degrees.
 
 
-# Licensure and accreditation
+include(license.md)
 
-#include license.md
-#include society.md
+include(society.md)
 
-# Curriculum and evolution
+include(curriculum.md)
 
-#include curriculum.md
+include(historical-data.md)
+
+include(formal-methods.md)
+
+include(ux.md)
+
+
+# Surprises
 
 - how has the existence of SE degree programs influenced history?
     - thoughts?
     - Software Engineer is certainly a prominent job title ...
-
-# Surprises
 
 - surprises?
     - our graduates go to work at Facebook ... is that the critical
@@ -155,4 +163,9 @@ graduate that early---1999.
 * https://patricklam.ca/post/20201212-se-student-support/
 
 * transfers
+
+
+include(related.md)
+
+include(venues.md)
 
