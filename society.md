@@ -146,3 +146,20 @@ University of Toronto in 2015. He has received a number of best-paper
 awards for his work (at FSE, UIST, and FAST), an NSF CAREER award, a
 Google Faculty Research Award, and Facebook Research Awards. Aws is
 very excited about his virtual visit to Waterloo
+
+
+## Surprises
+
+- how has the existence of SE degree programs influenced history?
+    - thoughts?
+    - Software Engineer is certainly a prominent job title ...
+
+- surprises?
+    - our graduates go to work at Facebook ... is that the critical
+      civil infrastructure that we thought we were training people
+      for?
+    - voting machines?
+    - Boeing 737 MAX
+    - etc.
+
+
