@@ -29,7 +29,8 @@ engineering aspects to the design and implementation of these social
 media systems. Traditional engineering education may not provide the
 background needed to maturely discuss these issues.
 
----
+
+## Concepts and Metaphors of Engineering
 
 - Has SE changed since then? What has happened?
     - metaphors of engineering, etc.
@@ -42,8 +43,10 @@ the surgical team metaphor, the growing/agriculture metaphor,
 carpentry/craftsmanship metaphor, bricolage, etc. So what happened
 with all that?
 
-https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/
 
+Hillel Wayne (professionally gives workshops on Alloy; physics training) is writing some essays on whether software engineering is engineering. Here is the first one. We tend to talk about the Canadian definition of engineering but he doesn't quite agree with it: most of what "real" (he coins "trad") engineers do is not actually life-critical for instance.
+
+https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/
 
 Are we teaching our students to engineer software in the way that Parnas and Brooks and Shaw and Jackson imagined last century? Is that what industry is hiring them to do? We could poll our students on these kinds of issues, and also look at the graduating class profiles. The SE2020 graduation profile had some data on what kind of work they are doing and what kind of work they would prefer to be doing.
 

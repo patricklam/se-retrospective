@@ -9,7 +9,6 @@ Software Engineering undergraduate program at the University of Waterloo. Obviou
 is important. But we will first talk about meta-curricular issues: student support, governance,
 collaboration, coop, and accreditation.
 
-include(is-engineering.md)
 
 
 # History and Lessons
@@ -102,6 +101,7 @@ In the same time period, CS has granted just under 6000 undergraduate
 degrees, while ECE has granted 2000 undergraduate degrees.
 
 
+<!--- ************************************************************* -->
 include(license.md)
 
 include(society.md)
@@ -114,6 +114,7 @@ include(formal-methods.md)
 
 include(ux.md)
 
+<!--- ************************************************************* -->
 
 # Surprises
 
