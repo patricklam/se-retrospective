@@ -6,19 +6,19 @@ include(intro.md)
 
 include(history.md)
 
+include(curriculum.md)
+
+include(peer.md)
+
 include(license.md)
 
 include(society.md)
-
-include(curriculum.md)
 
 include(historical-data.md)
 
 include(formal-methods.md)
 
 include(ux.md)
-
-include(peer.md)
 
 include(related.md)
 
