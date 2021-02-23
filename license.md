@@ -80,3 +80,10 @@ It seems safe to conclude that, on a global scale, licensing of
 software engineers is dead.
 
 
+## Other Motivations for Engineering
+
+- family with engineering (Bill Bishop?)
+- cultures that value engineering 
+- perception of being an "elite" program, due to smaller enrollment
+- iron ring
+
