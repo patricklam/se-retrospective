@@ -151,11 +151,52 @@ that this is the first significant time where our students, who are
 quite used to meeting requirements, are given a green-field task and
 not told what to do.
 
-% Derek should write more about this.
-% Handbook.
-% Grading scheme; don't want CRUD apps.
-% Symposium [random note: people wear suits way less often now]
-% Cyberbullying project: There was a group that was working on a project that invited others to judge people. That couldn't possibly lead to cyberbullying. Derek was telling them that and their classmates told them that. They were like "look no one tells you honest feedback about yourself" (true), "let's fix that! With anonymous comments!"
+- 3 terms over 20 calendar months
+    - due to co-op
+    - longer than most capstone projects
+    - more time to chew the fat
+- synergy with SE464 and SE463
+- formative assessments
+- peer assessments
+- handbook = collection of learning activities (approx. 100)
+    - select activities appropriate to your team or project
+    - project selection
+    - teamwork
+    - creative
+    - planning
+    - conceptual
+    - requirements
+    - design
+    - testing
+    - user
+    - reflective
+    - communication
+- different results rubrics:
+    - new product
+    - research
+    - advanced technology
+    - FOSS patch
+    - consultant
+- startups:
+    - dynalist.io
+    - tutturu.tv
+    - other?
+- papers:
+    - Manifold 1
+    - Manifold 2
+    - Whyness
+    - Jimmy Lin
+    - heartbeat/radiant
+    - not too many really ... not an interest for most students ...
+- other successes
+    - UWFlow
+- symposium day
+- Cyberbullying project: There was a group that was working on a
+  project that invited others to judge people. That couldn't possibly
+  lead to cyberbullying. Derek was telling them that and their
+  classmates told them that. They were like "look no one tells you
+  honest feedback about yourself" (true), "let's fix that! With
+  anonymous comments!"
 
 ## Changes to Other Parts
 
