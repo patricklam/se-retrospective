@@ -107,11 +107,18 @@ Engineering programs in including an open-ended capstone project,
 discussed below. The SE capstone project spans three semesters.
 
 We have removed a number of the original Software Engineering courses,
-in particular Software Project Management.
+in particular Software Project Management.  We removed Software
+Project Management because its content didn't align with student
+experience during workterms, which was generally much more agile. I
+believe the plan was to incorporate project management concepts into
+the FYDP, but I don't know what really happened in the longer term.
+
+% todo ^^^, I think also integrate with other discussions on agile
 
 % get some context from previous directors here, this predates me. The course was taught in 2008.
 
-% I think SE 457 doesn't exist anymore because the instructor retired.
+
+% I think CS 457 doesn't exist anymore because the instructor retired.
 
 We have changed the order of the three-course sequence to start in the
 first term of third year and with testing, progressing to design and
@@ -234,6 +241,16 @@ mentioned above, CE students now also two courses in probability and
 statistics, taught by ECE faculty. We would like to incorporate more
 statistics in the curriculum, but adding something requires
 subtracting something as well.
+
+Our statistics instructor, Surya Banarjee, reports:
+
+> STAT 206 is one of my favourite courses to teach, and a requirement
+> for SE students. It combines two distinct halves: Probability (the
+> part that most students enjoy because it resembles most math courses
+> in its deductive approach), and Statistical Inference (enjoyed less,
+> possibly because (a) the material is rushed due to time constraints,
+> and (b) the inductive nature of the subject). Both, however, are
+> very useful in general.
 
 \paragraph{Algorithms.} When SE was introduced, CS had recently moved
 from one to two algorithms courses, while ECE had (and still has) one
