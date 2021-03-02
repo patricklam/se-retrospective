@@ -9,3 +9,59 @@ Associate Professor
 Department of Electrical and Computer Engineering
 University of Waterloo
 
+
+On 2021-03-03 8:30 a.m., Michelle Wehrle wrote:
+> Hi Patrick,
+> 
+> Here is the information we gathered from our database.
+> 
+> total P.Engs: 85654
+> new P.Engs (from 2020-01-01 up to March 1, 2021): 3480
+> software P.Engs: 620
+> new software P.Engs (from 2020-01-01 up to March 1, 2021): 6
+> 
+> Please let me know if you need further clarification or information.
+> 
+> Michelle Wehrle
+> Director, Information Technology
+> Professional Engineers Ontario
+> Direct Line:  416-840-1111   Mobile: 416-705-3332
+> 
+> -----Original Message-----
+> From: Patrick Lam <patrick.lam@uwaterloo.ca>
+> Sent: March 1, 2021 4:56 PM
+> To: Michelle Wehrle <mwehrle@peo.on.ca>
+> Subject: Re: how many PEngs are software?
+> 
+> Thanks Michelle! I look forward to the response.
+> 
+> pat
+> 
+> On 2021-02-27 10:37 a.m., Michelle Wehrle wrote:
+>> Hi Patrick,
+>>
+>> I am following up to see who received your first request and what we can do to assist you.
+>>
+>> Michelle Wehrle
+>> Director, Information Technology
+>> Professional Engineers Ontario
+>> Direct Line:  416-840-1111   Mobile: 416-705-3332
+>>
+>> -----Original Message-----
+>> From: Patrick Lam <patrick.lam@uwaterloo.ca>
+>> Sent: February 11, 2021 5:52 PM
+>> To: Michelle Wehrle <mwehrle@peo.on.ca>
+>> Subject: how many PEngs are software?
+>>
+>> Dear Ms. Wehrle,
+>>
+>> As past Director of the Software Engineering program at the University of Waterloo, I am writing a 20-year retrospective of our program. It would be very helpful to know how many PEngs in Ontario are currently registered in the Software discipline, as well as how many people were granted new PEng licenses in 2020 with the Software discipline. I would also need, as context, the total number of registered PEngs as well as new PEngs.
+>>
+>> I sent this email on the "contact us" form of the PEO website in mid-January but got no response. I figured that as director of IT you could run a query on the database and find the answer.
+>>
+>> Thank you very much!
+>>
+>> Patrick Lam
+>> Associate Professor
+>> Department of Electrical and Computer Engineering University of Waterloo
+>>
