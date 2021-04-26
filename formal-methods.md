@@ -8,3 +8,7 @@
 
 [PL] There's always a lag between when something is research and when something is practice. It could be that FM is following this path. It is too early to say for sure. There are certainly individual data points. I think that TLA+ is not just used by research stars anymore. And Hillel Wayne is trying to make a living out of Alloy education / consulting.
 
+Twitter thread on big-up-front-design:
+
+https://twitter.com/pineal_servo/status/1386613500026384384
+
