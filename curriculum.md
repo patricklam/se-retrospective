@@ -113,12 +113,17 @@ experience during workterms, which was generally much more agile. I
 believe the plan was to incorporate project management concepts into
 the FYDP, but I don't know what really happened in the longer term.
 
+AM: I seem to remember that a new ECE faculty member (Todd Veldhuizen???) developed Software Project Management and the students didn't mind it but it had to go make room for FYDP.  Todd (if I've got the name correct) went off to industry after a short time at Waterloo.
+
+CC: I vaguely remember that the students didn't mind it because Todd taught it. The topic, if not the actual content, was meant to be merged into FYDP.
+
 % todo ^^^, I think also integrate with other discussions on agile
 
 % get some context from previous directors here, this predates me. The course was taught in 2008.
 
 
 % I think CS 457 doesn't exist anymore because the instructor retired.
+% "I'm pretty sure Jimmy Wong taught this. When he retired there was nobody to teach it, nor did anyone what to continue with it." - CC
 
 We have changed the order of the three-course sequence to start in the
 first term of third year and with testing, progressing to design and
@@ -135,7 +140,7 @@ finding that our databases course was too late in the curriculum.
 
 The three-course SE sequence had started with courses that mirrored
 the CS/ECE versions of these courses. Over time, these courses have
-diverged.
+diverged, as we explain below.
 
 The design course for CS students includes a substantial project,
 which is not appropriate for SE students also doing their capstone

@@ -85,5 +85,6 @@ software engineers is dead.
 - family with engineering (Bill Bishop?)
 - cultures that value engineering 
 - perception of being an "elite" program, due to smaller enrollment
-- iron ring
+
+- reiterate about iron ring
 

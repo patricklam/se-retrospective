@@ -4,7 +4,11 @@
 
 include(intro.md)
 
+include(success.md)
+
 include(history.md)
+
+include(student-support.md)
 
 include(curriculum.md)
 
@@ -14,13 +18,18 @@ include(license.md)
 
 include(society.md)
 
-include(historical-data.md)
-
 include(formal-methods.md)
 
 include(ux.md)
 
 include(related.md)
 
+% out of band information:
+
+% where?
 include(venues.md)
+
+% who's who
+include(historical-data.md)
+
 

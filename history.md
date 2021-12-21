@@ -100,12 +100,6 @@ degrees, while ECE has granted 2000 undergraduate degrees.
 
 * sibling programs (NE, TRON, GeoE, BME)
 
-## student support
-
-* first year midterm analysis
-* https://patricklam.ca/post/20201212-se-student-support/
-
-* transfers
 
 
 
