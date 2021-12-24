@@ -6,6 +6,8 @@ include(intro.md)
 
 include(success.md)
 
+include(coop.md)
+
 include(history.md)
 
 include(student-support.md)

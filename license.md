@@ -79,6 +79,9 @@ isn't a peep.
 It seems safe to conclude that, on a global scale, licensing of
 software engineers is dead.
 
+## Bill Wilson on accreditation
+
+Also, I have a comment on the issue of accreditation. From the very beginning the goal was to design and create a program that would fully integrate the Computer Engineering discipline and Computer Science discipline. To best achieve this goal the program was developed to be a “Truly Joint” program between the Department (School) of Computer Science in the Faculty of Math and the Department of Computer and Electrical Engineering in the Faculty of Engineering. The program was jointly developed, implemented and operated by both academic units and the students belonged to both domains. The goal was that graduates from the program would be fully qualified as Computer Scientist AND as Computer Engineers. For this reason full accreditation was sought and successfully obtained in Computer Science and in Engineering. So seeking accreditation in both disciplines was not the direct goal for the program but is a consequence of the original goal of the program.
 
 ## Other Motivations for Engineering
 
