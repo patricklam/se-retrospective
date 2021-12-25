@@ -40,7 +40,7 @@ most importantly in that "engineer" is not a protected title.
 
 On the other hand, Canadian engineering graduates are eligible to
 receive an iron ring, presented to them at the \emph{Ritual of the
-Calling of an Engineer}. In our experience, almost all of our
+Calling of an Engineer}. In our experience, many of our
 graduates demonstrate that they identify with the engineering
 profession by wearing the ring.
 
